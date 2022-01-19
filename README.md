@@ -1,3 +1,3 @@
 # damn
-sei lá
+sei lá,
 é só um trem pra "limpar" dns, lol
