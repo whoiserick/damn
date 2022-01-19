@@ -1,6 +1,6 @@
 @echo off
 color 0d
-title a simple dns clear: by https://github.com/whoiserick / ctrl + c to close
+title a simple dns clear / ctrl + c to close
 ipconfig /flushdns
 @echo off
 :loop
